@@ -13,14 +13,14 @@
 ## 二、配置和优化 
 
 ### 1.oh-my-zsh
-- 在"HomeData"项目中，oh-my-zsh是其子项目,可以直接通过软连接安装
+- 在"dotfiles"项目中，oh-my-zsh是其子项目,可以直接通过软连接安装
 ```sh
-# 从github拉取HomeData项目
+# 从github拉取dotfiles项目
 mkdir -p ~/Documents/github
-git clone https://github.com/qingmengfengyun/HomeData.git ~/Documents/github/HomeData --recurse-submodules
+git clone https://github.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
 
-# 进入HomeData目录
-cd ~/Documents/github/HomeData
+# 进入dotfiles目录
+cd ~/Documents/github/dotfiles
 
 # 切换到zsh
 /bin/zsh
@@ -38,7 +38,7 @@ git clone https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zs
 
 # 如果github无法访问，可以用gitee备用地址
 # 项目地址
-git clone https://gitee.com/qingmengfengyun/HomeData.git ~/Documents/github/HomeData --recurse-submodules
+git clone https://gitee.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
 # 插件地址
 git clone https://gitee.com/qingmengfengyun/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 git clone https://gitee.com/qingmengfengyun/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
@@ -178,7 +178,7 @@ sudo dnf install fish
 curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
 
 # 关联配置文件
-cd ~/Documents/github/HomeData && stow -t ~ fish
+cd ~/Documents/github/dotfiles && stow -t ~ fish
 ```
 - **[oh-my-fish官方github地址](https://github.com/oh-my-fish/oh-my-fish)**
 

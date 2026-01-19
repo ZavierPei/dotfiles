@@ -13,14 +13,14 @@
 ## 二、Configuration and optimization
 
 ### 1.oh-my-zsh
-- In the "HomeData" project, oh-my-zsh is a sub project that can be directly installed through a soft connection
+- In the "dotfiles" project, oh-my-zsh is a sub project that can be directly installed through a soft connection
 ```sh
-# Pull the HomeData project from GitHub
+# Pull the dotfiles project from GitHub
 mkdir -p ~/Documents/github
-git clone https://github.com/qingmengfengyun/HomeData.git ~/Documents/github/HomeData --recurse-submodules
+git clone https://github.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
 
-# Enter the HomeData directory
-cd ~/Documents/github/HomeData
+# Enter the dotfiles directory
+cd ~/Documents/github/dotfiles
 
 # Switch to zsh
 /bin/zsh
@@ -38,7 +38,7 @@ git clone https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zs
 
 # If GitHub cannot be accessed, you can use a backup address on Gitee
 # Project address
-git clone https://gitee.com/qingmengfengyun/HomeData.git ~/Documents/github/HomeData --recurse-submodules
+git clone https://gitee.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
 # Plugin address
 git clone https://gitee.com/qingmengfengyun/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 git clone https://gitee.com/qingmengfengyun/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
@@ -178,6 +178,6 @@ sudo dnf install fish
 curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
 
 # Associated configuration files
-cd ~/Documents/github/HomeData && stow -t ~ fish
+cd ~/Documents/github/dotfiles && stow -t ~ fish
 ```
 - **[oh-my-fish official GitHub address](https://github.com/oh-my-fish/oh-my-fish)**
