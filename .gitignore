@@ -1,0 +1,13 @@
+# custom files
+# custom/
+
+# temp files directories
+# cache/
+# log/
+*.swp
+.DS_Store
+fish/.config/fish/fish_variables
+
+# editor configs
+.vscode
+.idea
