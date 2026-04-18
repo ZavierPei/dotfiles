@@ -74,9 +74,9 @@ function fish_greeting
 end
 
 # 配置网络代理
-set -gx http_proxy "http://127.0.0.1:7897"
-set -gx https_proxy "http://127.0.0.1:7897"
-set -gx all_proxy "socks5://127.0.0.1:7897"
+set -gx http_proxy "http://192.168.31.86:7897"
+set -gx https_proxy "http://192.168.31.86:7897"
+set -gx all_proxy "socks5://192.168.31.86:7897"
 
 # 配置gemini cli环境变量
 set -gx GOOGLE_CLOUD_PROJECT gen-lang-client-0848770812
