@@ -17,7 +17,7 @@ alias h="history"
 
 # 工具快捷方式
 alias py="python"
-alias ra="py ~/Application/ranger/ranger.py"
+alias ra="ranger"
 alias v='bash -c '\''my_vim=""; if command -v lvim >/dev/null 2>&1; then my_vim="lvim"; else if command -v nvim >/dev/null 2>&1; then my_vim="nvim"; else my_vim="vim"; fi; fi; if [ $# -gt 0 ]; then $my_vim "$@"; else $my_vim .; fi'\'' bash'
 alias icat="kitty +kitten icat"
 alias kdiff="kitty +kitten diff"
@@ -39,13 +39,13 @@ alias dcls="docker ps"
 alias drm="docker rm"
 alias dclsa="docker ps -a"
 alias dxcit="docker exec -it"
-alias dxcitu="docker exec -it ubuntu fish"
+alias dxcitf="docker exec -it fedora fish"
 
 # Linux命令别名
-alias aguu="sudo apt update && sudo apt upgrade"
-alias agi="sudo apt install"
-alias agr="sudo apt remove"
-alias ags="sudo apt search"
+#alias aguu="sudo apt update && sudo apt upgrade"
+#alias agi="sudo apt install"
+#alias agr="sudo apt remove"
+#alias ags="sudo apt search"
 alias dnfu="sudo dnf update && sudo dnf upgrade"
 alias dnfi="sudo dnf install"
 alias dnfr="sudo dnf remove"
@@ -65,6 +65,9 @@ function .....
     cd ../../../..
 end
 
+# 配置环境变量
+set -x PATH $HOME/.local/bin $HOME/bin $PATH
+
 # ===== 启动命令 =====
 # 欢迎信息
 function fish_greeting
@@ -73,26 +76,3 @@ function fish_greeting
     echo "时间: $(date)"
 end
 
-# 配置网络代理
-set -gx http_proxy "http://192.168.31.86:7897"
-set -gx https_proxy "http://192.168.31.86:7897"
-set -gx all_proxy "socks5://192.168.31.86:7897"
-
-# 配置gemini cli环境变量
-set -gx GOOGLE_CLOUD_PROJECT gen-lang-client-0848770812
-
-# 配置环境变量
-set -x PATH $HOME/.local/bin $HOME/bin $PATH
-
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-if test -f /home/qingm/.miniconda3/bin/conda
-    eval /home/qingm/.miniconda3/bin/conda "shell.fish" hook $argv | source
-else
-    if test -f "/home/qingm/.miniconda3/etc/fish/conf.d/conda.fish"
-        . "/home/qingm/.miniconda3/etc/fish/conf.d/conda.fish"
-    else
-        set -x PATH "/home/qingm/.miniconda3/bin" $PATH
-    end
-end
-# <<< conda initialize <<<
