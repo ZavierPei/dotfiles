@@ -2,11 +2,16 @@
 -- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
 -- Add any additional options here
 
--- ~/.config/nvim/lua/config/options.lua
 
--- Python LSP 配置
-vim.g.lazyvim_python_lsp = "basedpyright" -- 推荐 basedpyright，对类型提示更友好
-vim.g.lazyvim_python_ruff = "ruff" -- 使用 Ruff 进行 Linting 和格式化
-
--- 启用真彩色支持（确保 Kitty 颜色显示正确）
-vim.opt.termguicolors = true
+-- 为特定文件类型启用自动换行
+vim.api.nvim_create_autocmd("FileType", {
+    pattern = { "markdown", "text", "tex", "gitcommit" },
+    callback = function()
+        -- 启用自动换行
+        vim.opt_local.wrap = true
+        -- 在单词边界处换行，不会截断单词
+        vim.opt_local.linebreak = true
+        -- 换行后保持与上一行相同的缩进
+        vim.opt_local.breakindent = true
+    end,
+})
