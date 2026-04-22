@@ -66,7 +66,7 @@ function .....
 end
 
 # 配置环境变量
-set -x PATH $HOME/.local/bin $HOME/bin $PATH
+set -x PATH $HOME/.local/bin $PATH
 
 # ===== 启动命令 =====
 # 欢迎信息
@@ -75,4 +75,3 @@ function fish_greeting
     echo "欢迎使用 Fish shell 🐟"
     echo "时间: $(date)"
 end
-

@@ -88,7 +88,6 @@ plugins=(
          docker-compose
          dnf
          history
-         ubuntu
          zsh-autosuggestions
          zsh-syntax-highlighting
          z

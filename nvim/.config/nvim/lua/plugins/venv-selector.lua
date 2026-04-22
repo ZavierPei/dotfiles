@@ -18,7 +18,7 @@ return {
       anaconda_envs_path = vim.fn.expand("~/.miniconda3/envs"),
       anaconda_base_path = vim.fn.expand("~/.miniconda3"),
 
-      fd_binary_name = "fd", -- 指定 fd 命令名，如果不在 PATH 里可设为绝对路径
+      fd_binary_name = "/usr/bin/fd", -- 指定 fd 命令名，如果不在 PATH 里可设为绝对路径
       dap_enabled = true, -- 启用与 nvim-dap-python 的集成
     })
   end,
