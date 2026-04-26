@@ -17,7 +17,7 @@
 
 - 在"dotfiles"项目中，oh-my-zsh是其子项目,可以直接通过软连接安装
 
-```sh
+```bash
 # 从github拉取dotfiles项目
 mkdir -p ~/Documents/github
 git clone https://github.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
@@ -39,6 +39,11 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 
+# 使用配置
+source ~/.zshrc
+```
+
+```bash
 # 如果github无法访问，可以用gitee备用地址
 # 项目地址
 git clone https://gitee.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
@@ -46,9 +51,6 @@ git clone https://gitee.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles -
 git clone https://gitee.com/qingmengfengyun/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 git clone https://gitee.com/qingmengfengyun/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://gitee.com/qingmengfengyun/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
-
-# 使用配置
-source ~/.zshrc
 ```
 
 **如果powerlevel10k字体缺失，可以到[powerlevel10k-media](https://gitee.com/qingmengfengyun/powerlevel10k-media)下载.ttf结尾的四个文件，新建"~/.local/share/fonts/ttf/MesloLGS NF"目录，并将下载的文件存放到这个目录下即可**
@@ -62,7 +64,7 @@ source ~/.zshrc
 - 根据系统版本下载对应neovim安装包，解压后存放在"/opt/nvim-linux64"下面
 - 在`~/.local/bin`中创建软连接
 
-```sh
+```bash
 ln -s /opt/nvim-linux64/bin/nvim ~/.local/bin/
 ```
 
@@ -78,7 +80,7 @@ ln -s /opt/nvim-linux64/bin/nvim ~/.local/bin/
 
 #### b.安装命令
 
-```sh
+```bash
 LV_BRANCH='release-1.4/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.4/neovim-0.9/utils/installer/install.sh)
 ```
 
@@ -89,7 +91,7 @@ LV_BRANCH='release-1.4/neovim-0.9' bash <(curl -s https://raw.githubusercontent.
 
 #### c.卸载命令
 
-```sh
+```bash
 rm -rf ~/.config/lvim \  
        ~/.local/share/lunarvim \  
        ~/.local/bin/lvim \  
@@ -103,7 +105,7 @@ rm -rf ~/.config/lvim \
 - 在Debian/Ubuntu系统上需要安装：libgtk-4-dev、libgio-2.0-dev
 - 在Red Hat/CentOS系统上需要安装：glib2-devel
 
-```sh
+```bash
 git clone https://github.com/ubuntu/yaru.git
 cd yaru
 
@@ -141,7 +143,7 @@ git clone https://gitee.com/qingmengfengyun/yaru.git
 
 ### 1.ssh服务启用方式
 
-```sh
+```bash
 # 安装SSH服务
 sudo dnf install openssh-server
 
@@ -160,7 +162,7 @@ sudo systemctl status sshd
 - 虚拟机开机自动挂载主机路径
 - 需要使用crontab工具
 
-```sh
+```bash
 sudo crontab -e
 # 输入以下命令
 @reboot mount -t fuse.vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
@@ -170,13 +172,13 @@ sudo crontab -e
 
 - 生成ssh密钥
 
-```sh
+```bash
 ssh-keygen -t rsa -b 4096
 ```
 
 - 如果需要指定密钥名(如“gitkey”)，则需要在config中添加如下内容
 
-```sh
+```bash
 # github
 Host github.com
 HostName github.com
@@ -194,7 +196,7 @@ IdentityFile ~/.ssh/gitkey
 
 - fish shell安装和优化配置流程
 
-```sh
+```bash
 # 安装fish shell
 sudo dnf install fish
 

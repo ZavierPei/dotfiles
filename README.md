@@ -17,7 +17,7 @@
 
 - In the "dotfiles" project, oh-my-zsh is a sub project that can be directly installed through a soft connection
 
-```sh
+```bash
 # Pull the dotfiles project from GitHub
 mkdir -p ~/Documents/github
 git clone https://github.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
@@ -39,6 +39,11 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 
+# Use configuration
+source ~/.zshrc
+```
+
+```bash
 # If GitHub cannot be accessed, you can use a backup address on Gitee
 # Project address
 git clone https://gitee.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
@@ -46,9 +51,6 @@ git clone https://gitee.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles -
 git clone https://gitee.com/qingmengfengyun/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 git clone https://gitee.com/qingmengfengyun/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://gitee.com/qingmengfengyun/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
-
-# Use configuration
-source ~/.zshrc
 ```
 
 **If the powerlevel10k font is missing, you can go to [powerlevel10k-media](https://gitee.com/qingmengfengyun/powerlevel10k-media)Download the four files ending in ".ttf", create a new directory named "~/. local/share/fonts/ttf/MesloLGS NF", and store the downloaded files in this directory**
@@ -62,7 +64,7 @@ source ~/.zshrc
 - Download the corresponding Neovim installation package based on the system version, unzip it, and store it under "/opt/nvim-linux64"
 - Create a soft connection in "~/.local/bin"
 
-```sh
+```bash
 ln -s /opt/nvim-linux64/bin/nvim ~/.local/bin/
 ```
 
@@ -78,7 +80,7 @@ ln -s /opt/nvim-linux64/bin/nvim ~/.local/bin/
 
 #### b.Installation command
 
-```sh
+```bash
 LV_BRANCH='release-1.4/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.4/neovim-0.9/utils/installer/install.sh)
 ```
 
@@ -89,7 +91,7 @@ LV_BRANCH='release-1.4/neovim-0.9' bash <(curl -s https://raw.githubusercontent.
 
 #### c.Uninstall command
 
-```sh
+```bash
 rm -rf ~/.config/lvim \  
        ~/.local/share/lunarvim \  
        ~/.local/bin/lvim \  
@@ -103,7 +105,7 @@ rm -rf ~/.config/lvim \
 - On the Debian/Ubuntu system, it is necessary to install libgtk-4-dev and libgio-2.0-dev.
 - Installation of glib2 level is required on Red Hat/CentOS system.
 
-```sh
+```bash
 git clone https://github.com/ubuntu/yaru.git
 cd yaru
 
@@ -141,7 +143,7 @@ Hide the status bar plugin
 
 ### 1.SSH service activation method
 
-```sh
+```bash
 # Install SSH service
 sudo dnf install openssh-server
 
@@ -160,7 +162,7 @@ sudo systemctl status sshd
 - Virtual machine automatically mounts host path upon startup
 - Need to use crontab
 
-```sh
+```bash
 sudo crontab -e
 # Enter the following command
 @reboot mount -t fuse.vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
@@ -170,13 +172,13 @@ sudo crontab -e
 
 - Generate SSH key
 
-```sh
+```bash
 ssh-keygen -t rsa -b 4096
 ```
 
 - If you need to specify a key name (such as "gitkey"), you need to add the following content in the config
 
-```sh
+```bash
 # github
 Host github.com
 HostName github.com
@@ -190,11 +192,11 @@ PreferredAuthentications publickey
 IdentityFile ~/.ssh/gitkey
 ```
 
-### 4.fish shell配置
+### 4.fish shell setting
 
 - Fish shell installation and optimization configuration process
 
-```sh
+```bash
 # install fish shell
 sudo dnf install fish
 
