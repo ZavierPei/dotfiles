@@ -7,9 +7,7 @@
 - git
 - stow
 - zsh
-- kitty
-- terminator
-- anaconda或miniconda
+- kitty or terminator
 
 ## 二、配置和优化
 
@@ -39,11 +37,6 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 
-# 使用配置
-source ~/.zshrc
-```
-
-```bash
 # 如果github无法访问，可以用gitee备用地址
 # 项目地址
 git clone https://gitee.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles --recurse-submodules
@@ -51,6 +44,9 @@ git clone https://gitee.com/ZavierPei/dotfiles.git ~/Documents/github/dotfiles -
 git clone https://gitee.com/qingmengfengyun/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 git clone https://gitee.com/qingmengfengyun/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://gitee.com/qingmengfengyun/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
+
+# 使用配置
+source ~/.zshrc
 ```
 
 **如果powerlevel10k字体缺失，可以到[powerlevel10k-media](https://gitee.com/qingmengfengyun/powerlevel10k-media)下载.ttf结尾的四个文件，新建"~/.local/share/fonts/ttf/MesloLGS NF"目录，并将下载的文件存放到这个目录下即可**
@@ -61,66 +57,40 @@ git clone https://gitee.com/qingmengfengyun/powerlevel10k.git ${ZSH_CUSTOM:-~/.o
 
 #### 安装方法
 
-- 根据系统版本下载对应neovim安装包，解压后存放在"/opt/nvim-linux64"下面
-- 在`~/.local/bin`中创建软连接
-
 ```bash
+# 1.安装依赖：官方预编译包需要一些基础库才能运行
+sudo dnf install compat-lua-libs libtermkey libtree-sitter libvterm luajit luajit2.1-luv msgpack unibilium xsel
+
+# 2. 根据系统版本(如x86、arm等)下载对应neovim安装包，解压后存放在"/opt/nvim-linux64"下面，并且在`~/.local/bin`中创建软连接
 ln -s /opt/nvim-linux64/bin/nvim ~/.local/bin/
 ```
 
-### 3.lunarvim
+### 3.gnome-yaru主题安装
 
-- [lunarvim官方安装文档](https://www.lunarvim.org/zh-Hans/docs/installation)
-
-#### a.前置条件
-
-- 请确保拥有最新版本的 Neovim v0.9.5+.
-- 在系统上安装 git、make、pip、python、npm、node、cargo、gcc、fd和lazygit.
-- 可以使用对应系统的包管理工具下载，或者通过homebrew安装.
-
-#### b.安装命令
+- 前提准备
 
 ```bash
-LV_BRANCH='release-1.4/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.4/neovim-0.9/utils/installer/install.sh)
+# 安装核心依赖包
+sudo dnf install gtk-murrine-engine sassc gnome-themes-extra
+
+# 安装GNOME优化工具(GNOME Tweaks)
+sudo dnf install gnome-tweaks
+
+# 安装User Themes扩展
+sudo dnf install gnome-shell-extension-user-theme
 ```
 
-- $HOME/.config/lvim：lvim的个性化配置文件；
-- $HOME/.local/bin/lvim：lvim的执行文件；
-- $HOME/.cache/lvim：lvim的缓存目录；
-- $HOME/.config/lvim.old：可能存在的lvim个性化文件备份
-
-#### c.卸载命令
+- 安装Yaru主题
 
 ```bash
-rm -rf ~/.config/lvim \  
-       ~/.local/share/lunarvim \  
-       ~/.local/bin/lvim \  
-       ~/.config/lvim.old \  
-       ~/.cache/lvim
+# 选项一：安装基础Yaru主题包(此包会自动安装GTK和Shell主题)
+sudo dnf install gnome-shell-theme-yaru
+
+# 选项二：安装整套Ubuntu风格(图标主题、光标主题、声音主题，以及GTK2/3/4的完整支持)
+sudo dnf install yaru-icon-theme yaru-cursor-theme yaru-sound-theme yaru-gtk2-theme yaru-gtk3-theme yaru-gtk4-theme
 ```
 
-### 4.gnome-yaru主题安装
-
-- 软件所需程序：git、meson、sassc、inkscape、optipng、ruby
-- 在Debian/Ubuntu系统上需要安装：libgtk-4-dev、libgio-2.0-dev
-- 在Red Hat/CentOS系统上需要安装：glib2-devel
-
-```bash
-git clone https://github.com/ubuntu/yaru.git
-cd yaru
-
-# Initialize build system (only required once per repo)
-meson build
-cd build
-
-# Build and install
-sudo ninja install
-
-# 备用地址
-git clone https://gitee.com/qingmengfengyun/yaru.git
-```
-
-### 5.gnome桌面优化
+### 4.gnome桌面优化
 
 - 所需程序：gnome-tweaks、gnome-shell-extensions
 
