@@ -1,0 +1,19 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.16.1
+#@/tick	17
+#@/user_id	ee5c281b-b5db-4ec4-913e-07f7ba7a1927
+chun hua qiu yue he shi liao 	春花秋月何时了	c=1 d=0.985112 t=17
+da zi ce shi 	打字测试	c=1 d=0.980199 t=17
+gu guo bu kan hui shou yue ming zhong 	故国不堪回首月明中	c=1 d=1 t=17
+jin tian tian qi 	今天天气	c=1 d=0.995012 t=17
+ni hao 	你好	c=3 d=2.91173 t=17
+ni shi shui 	你是谁	c=1 d=0.97531 t=17
+pei zhi wei 	裴志伟	c=2 d=1.9802 t=17
+qing 	请	c=1 d=1 t=14
+wang shi zhi duo shao 	往事知多少	c=1 d=0.99005 t=17
+wo jue de 	我觉得	c=1 d=1 t=17
+wo shi 	我是	c=2 d=1.97032 t=17
+xiao lou zuo ye you dong feng 	小楼昨夜又东风	c=1 d=0.995012 t=17
+yang rong 	杨蓉	c=1 d=0.99005 t=17
