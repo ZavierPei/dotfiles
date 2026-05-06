@@ -1,10 +1,10 @@
 __build_info:
   rime_version: 1.16.1
   timestamps:
-    default: 1777283562
+    default: 1777702670
     default.custom: 0
     radical_pinyin.custom: 0
-    radical_pinyin.schema: 1777283562
+    radical_pinyin.schema: 1777702670
 algebra_abc:
   - "xform/^zh/<a>/"
   - "xform/^ch/<e>/"
