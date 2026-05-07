@@ -2,39 +2,48 @@
 #@/db_name	rime_ice
 #@/db_type	userdb
 #@/rime_version	1.16.1
-#@/tick	49
+#@/tick	54
 #@/user_id	ee5c281b-b5db-4ec4-913e-07f7ba7a1927
-an zhuang 	安装	c=3 d=2.74646 t=49
-che di 	彻底	c=1 d=0.960789 t=49
-chun hua qiu yue he shi liao 	春花秋月何时了	c=1 d=0.985112 t=49
-da zi ce shi 	打字测试	c=1 d=0.980199 t=49
-de 	的	c=3 d=2.84992 t=49
-gu guo bu kan hui shou yue ming zhong 	故国不堪回首月明中	c=1 d=1 t=49
-ha ha ha 	哈哈哈	c=1 d=1 t=49
-jian wang san 	剑网三	c=1 d=1 t=49
-jin tian tian qi 	今天天气	c=1 d=0.995012 t=49
-liu shi shi 	刘诗诗	c=1 d=0.985112 t=49
-mu lu 	目录	c=1 d=0.946485 t=49
-ni hao 	你好	c=4 d=3.89721 t=49
-ni shi shui 	你是谁	c=1 d=0.97531 t=49
-pei zhi 	配置	c=1 d=1 t=49
-pei zhi wei 	裴志伟	c=2 d=1.9802 t=49
-qing 	请	c=1 d=0.985112 t=49
-ru he 	如何	c=3 d=2.76121 t=49
-ruan jian 	软件	c=1 d=0.995012 t=49
-shi yong yu 	适用于	c=1 d=0.980199 t=49
-shu ru fa 	输入法	c=1 d=0.995012 t=49
-tui jian 	推荐	c=2 d=1.96561 t=49
-wan 	完	c=1 d=0.995012 t=49
-wang shi zhi duo shao 	往事知多少	c=1 d=0.99005 t=49
-wen jian 	文件	c=1 d=0.941765 t=49
-wo jue de 	我觉得	c=1 d=1 t=49
-wo shi 	我是	c=3 d=2.90187 t=49
-wu qi long 	吴奇隆	c=1 d=0.99005 t=49
-xiao lou zuo ye you dong feng 	小楼昨夜又东风	c=1 d=0.995012 t=49
-xie zai 	卸载	c=1 d=0.965605 t=49
-xu ni ji 	虚拟机	c=3 d=2.92244 t=49
-yang rong 	杨蓉	c=1 d=0.99005 t=49
-yi ge 	一个	c=1 d=0.97531 t=49
-yong 	用	c=1 d=0.913931 t=49
-zai na 	在哪	c=1 d=0.951229 t=49
+an zhuang 	安装	c=3 d=2.74646 t=54
+cha kan 	查看	c=1 d=0.794534 t=54
+che di 	彻底	c=1 d=0.960789 t=54
+chun hua qiu yue he shi liao 	春花秋月何时了	c=1 d=0.985112 t=54
+da zi ce shi 	打字测试	c=1 d=0.980199 t=54
+de 	的	c=3 d=2.84992 t=54
+ding yue 	订阅	c=1 d=0.806541 t=54
+gu guo bu kan hui shou yue ming zhong 	故国不堪回首月明中	c=1 d=1 t=54
+gua zai 	挂载	c=1 d=0.995012 t=54
+ha ha ha 	哈哈哈	c=1 d=1 t=54
+jian wang san 	剑网三	c=1 d=1 t=54
+jin tian tian qi 	今天天气	c=1 d=0.995012 t=54
+kai ji 	开机	c=1 d=0.985112 t=54
+le 	了	c=1 d=0.810584 t=54
+liu shi shi 	刘诗诗	c=1 d=0.985112 t=54
+mu lu 	目录	c=1 d=0.946485 t=54
+ni hao 	你好	c=4 d=3.89721 t=54
+ni shi shui 	你是谁	c=1 d=0.97531 t=54
+pei zhi 	配置	c=1 d=1 t=54
+pei zhi wei 	裴志伟	c=2 d=1.9802 t=54
+qing 	请	c=1 d=0.985112 t=54
+ru he 	如何	c=4 d=3.67324 t=54
+ruan jian 	软件	c=1 d=0.995012 t=54
+shi fou 	是否	c=1 d=0.802519 t=54
+shi yong yu 	适用于	c=1 d=0.980199 t=54
+shu ru fa 	输入法	c=1 d=0.995012 t=54
+tui jian 	推荐	c=2 d=1.96561 t=54
+wan 	完	c=1 d=0.995012 t=54
+wang shi zhi duo shao 	往事知多少	c=1 d=0.99005 t=54
+wen jian 	文件	c=1 d=0.941765 t=54
+wo jue de 	我觉得	c=1 d=1 t=54
+wo shi 	我是	c=3 d=2.90187 t=54
+wu qi long 	吴奇隆	c=1 d=0.99005 t=54
+xi tong 	系统	c=1 d=0.798516 t=54
+xiao lou zuo ye you dong feng 	小楼昨夜又东风	c=1 d=0.995012 t=54
+xie zai 	卸载	c=1 d=0.965605 t=54
+xu ni ji 	虚拟机	c=3 d=2.92244 t=54
+yang rong 	杨蓉	c=1 d=0.99005 t=54
+yi ge 	一个	c=1 d=0.97531 t=54
+ying pan 	硬盘	c=1 d=1 t=54
+yong 	用	c=1 d=0.913931 t=54
+zai na 	在哪	c=1 d=0.951229 t=54
+zi dong 	自动	c=1 d=0.99005 t=54
