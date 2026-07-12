@@ -2,330 +2,352 @@
 #@/db_name	rime_ice
 #@/db_type	userdb
 #@/rime_version	1.16.1
-#@/tick	478
+#@/tick	535
 #@/user_id	ee5c281b-b5db-4ec4-913e-07f7ba7a1927
-P ei 	P欸	c=2 d=1.47515 t=478
-a 	啊	c=0 d=0.0995012 t=478
-a a a a a a a a 	啊啊啊啊啊啊啊啊	c=0 d=0.0995012 t=478
-an zhuang 	安装	c=10 d=7.45384 t=478
-ba 	八	c=1 d=0.918512 t=478
-ba 	把	c=0 d=0.0814647 t=478
-ba jian zhu 	把建筑	c=1 d=0.818731 t=478
-bai du 	百度	c=2 d=1.90722 t=478
-bai tian 	白天	c=1 d=1 t=478
-ban 	版	c=3 d=2.73414 t=478
-bang le 	绑了	c=1 d=0.970446 t=478
-bao qing tian 	包青天	c=1 d=0.843665 t=478
-bei bao 	背包	c=1 d=0.995012 t=478
-bi li bi li 	哔哩哔哩	c=1 d=1 t=478
-bu fen 	部分	c=1 d=0.965605 t=478
-bu tong 	不同	c=1 d=0.782705 t=478
-bu xiang 	不想	c=1 d=0.97531 t=478
-cai 	才	c=2 d=1.40505 t=478
-cai liao 	材料	c=2 d=2.04012 t=478
-cai liao xiang 	材料箱	c=1 d=0.995012 t=478
-cai yao 	菜肴	c=1 d=0.882497 t=478
-cao zuo 	操作	c=1 d=0.946485 t=478
-ce shi 	测试	c=1 d=0.759572 t=478
-cha jian 	插件	c=2 d=1.54705 t=478
-cha kan 	查看	c=1 d=0.794534 t=478
-cha zhao qi 	查找器	c=1 d=1 t=478
-chang xue 	长靴	c=1 d=1 t=478
-chao xian 	朝鲜	c=2 d=1.97516 t=478
-chao xian zu 	朝鲜族	c=1 d=0.810584 t=478
-che di 	彻底	c=3 d=1.96308 t=478
-che xiao 	撤销	c=1 d=0.937067 t=478
-cheng gong 	成功	c=1 d=0.771052 t=478
-chong shang 	崇尚	c=1 d=0.818731 t=478
-chu le 	除了	c=1 d=0.960789 t=478
-chuan tong 	传统	c=1 d=0.965605 t=478
-chuang jian 	创建	c=1 d=0.99005 t=478
-chuang zao 	创造	c=2 d=1.84715 t=478
-chun hua qiu yue he shi liao 	春花秋月何时了	c=1 d=0.985112 t=478
-cong si 	葱丝	c=0 d=0.0918512 t=478
-cun dang 	存档	c=2 d=1.92196 t=478
-cun zhuang 	村庄	c=2 d=1.99005 t=478
-da jian 	搭建	c=1 d=1 t=478
-da shou 	大寿	c=1 d=1 t=478
-da zi ce shi 	打字测试	c=1 d=0.980199 t=478
-da zi lian xi 	打字练习	c=2 d=1.42194 t=478
-dao 	到	c=2 d=1.89843 t=478
-dao ru 	导入	c=1 d=0.970446 t=478
-dao zhi 	导致	c=1 d=0.960789 t=478
-de 	的	c=10 d=6.89987 t=478
-dei 	得	c=0 d=0.0995012 t=478
-dei a a a a a a a a a wa a a 	得啊啊啊啊啊啊啊啊啊哇啊啊	c=1 d=1 t=478
-den 	扽	c=2 d=1.54665 t=478
-deng 	等	c=1 d=0.941765 t=478
-di ren jie 	狄仁杰	c=1 d=0.900325 t=478
-dian zhui 	点缀	c=1 d=0.955997 t=478
-ding yue 	订阅	c=1 d=0.806541 t=478
-dou hui 	都会	c=1 d=0.955997 t=478
-dou shi 	都是	c=1 d=0.985112 t=478
-dou yao 	都要	c=1 d=0.895834 t=478
-dui 	对	c=1 d=0.960789 t=478
-e mo fa ze 	恶魔法则	c=1 d=1 t=478
-fa lun gong 	法轮功	c=3 d=2.8585 t=478
-fa song 	发送	c=1 d=0.826959 t=478
-fang ke meng 	方可梦	c=1 d=1 t=478
-fang kuai 	方块	c=1 d=1 t=478
-fang kuang 	方框	c=1 d=0.99005 t=478
-fang wei 	方位	c=1 d=0.97531 t=478
-fang zhi 	防止	c=1 d=0.733447 t=478
-feng yun 	风云	c=0 d=0.0960789 t=478
-fu wu 	服务	c=1 d=0.951229 t=478
-fu wu qi 	服务器	c=2 d=1.9458 t=478
-gai cheng 	改成	c=1 d=0.882497 t=478
-gao bing 	糕饼	c=1 d=0.891366 t=478
-ge shi 	格式	c=1 d=0.951229 t=478
-ge xiang 	各项	c=1 d=0.985112 t=478
-ge you 	各有	c=1 d=0.786628 t=478
-gei 	给	c=1 d=0.839457 t=478
-geng huan 	更换	c=1 d=0.951229 t=478
-geng jia 	更加	c=1 d=0.869358 t=478
-geng xin 	更新	c=3 d=2.22653 t=478
-gong ju 	工具	c=1 d=0.980199 t=478
-gong neng 	功能	c=1 d=0.782705 t=478
-gou mai 	购买	c=1 d=1 t=478
-gu guo bu kan hui shou yue ming zhong 	故国不堪回首月明中	c=1 d=1 t=478
-gua zai 	挂载	c=1 d=0.995012 t=478
-guan li yuan 	管理员	c=1 d=0.995012 t=478
-ha ha ha 	哈哈哈	c=1 d=1 t=478
-hai xiang 	还想	c=1 d=0.918512 t=478
-han ju 	韩剧	c=2 d=1.96536 t=478
-he 	和	c=4 d=2.30514 t=478
-he 	盒	c=1 d=1 t=478
-he cheng 	合成	c=1 d=0.995012 t=478
-hou 	后	c=4 d=3.39987 t=478
-hu tao ren 	胡桃仁	c=1 d=0.937067 t=478
-huan lian 	换脸	c=2 d=1.58193 t=478
-hui hun jie 	回婚节	c=1 d=0.798516 t=478
-huo 	或	c=1 d=0.927743 t=478
-ji dan 	鸡蛋	c=0 d=0.0904837 t=478
-ji dan pian 	鸡蛋片	c=1 d=0.909373 t=478
-ji di 	基地	c=1 d=1 t=478
-ji ge 	几格	c=1 d=0.831104 t=478
-ji yan ban 	基岩版	c=1 d=1 t=478
-jia huo 	家伙	c=2 d=1.98511 t=478
-jia yi 	加一	c=1 d=0.946485 t=478
-jian hao 	建好	c=0 d=0.0955997 t=478
-jian hao de 	建好的	c=1 d=0.960789 t=478
-jian wang san 	剑网三	c=1 d=1 t=478
-jian zao 	建造	c=2 d=1.91813 t=478
-jian zhu 	建筑	c=3 d=2.65429 t=478
-jiang feng 	江峰	c=1 d=0.740818 t=478
-jiang jiu 	讲究	c=1 d=0.873716 t=478
-jiang shi 	僵尸	c=0 d=0.0715338 t=478
-jiang shi zhu ling 	僵尸猪灵	c=1 d=0.718924 t=478
-jiao yi suo 	交易所	c=1 d=1 t=478
-jie hun 	结婚	c=2 d=1.78763 t=478
-jie jue 	解决	c=2 d=1.94649 t=478
-jie ling 	节令	c=1 d=0.831104 t=478
-jie ri 	节日	c=0 d=0.0965605 t=478
-jie ri wai 	节日外	c=1 d=0.970446 t=478
-jie shao 	介绍	c=1 d=0.798516 t=478
-jin tian tian qi 	今天天气	c=1 d=0.995012 t=478
-jin xing 	进行	c=1 d=0.980199 t=478
-ju le bu 	俱乐部	c=1 d=0.980199 t=478
-kai ji 	开机	c=1 d=0.985112 t=478
-ke yi 	可以	c=3 d=2.50108 t=478
-ke yi yong de 	可以用的	c=1 d=0.904837 t=478
-kong bu you xi 	恐怖游戏	c=1 d=0.83527 t=478
-kuai su 	快速	c=1 d=0.99005 t=478
-kuang shi 	矿石	c=3 d=2.8975 t=478
-kun bang 	捆绑	c=1 d=0.737123 t=478
-la jiao si 	辣椒丝	c=1 d=0.904837 t=478
-lao ren 	老人	c=1 d=0.99005 t=478
-le 	了	c=2 d=1.66024 t=478
-lei si 	类似	c=1 d=0.909373 t=478
-li hong zhi 	李洪志	c=1 d=0.927743 t=478
-li jin mie 	李尽灭	c=1 d=0.995012 t=478
-li yi 	礼仪	c=1 d=0.822835 t=478
-li yong 	利用	c=1 d=0.955997 t=478
-lian jie 	连接	c=2 d=1.51547 t=478
-liang ge 	两个	c=1 d=0.891366 t=478
-lie yan ren 	烈焰人	c=1 d=0.995012 t=478
-ling 	灵	c=0 d=0.0715338 t=478
-ling wai 	另外	c=1 d=0.985112 t=478
-liu shi 	六十	c=1 d=0.995012 t=478
-liu shi shi 	刘诗诗	c=6 d=4.5752 t=478
-liu shi zhou nian ji nian ri 	六十周年纪念日	c=1 d=0.806541 t=478
-long shen 	龙神	c=1 d=0.995012 t=478
-lv 	绿	c=0 d=0.0918512 t=478
-lv cong si 	绿葱丝	c=1 d=0.923116 t=478
-ma 	吗	c=3 d=2.46265 t=478
-mei ci 	每次	c=1 d=0.946485 t=478
-mei feng 	每逢	c=1 d=0.83527 t=478
-mei lin na 	梅琳娜	c=1 d=1 t=478
-men 	门	c=1 d=1 t=478
-mi 	米	c=0 d=0.0927743 t=478
-mi mi 	咪咪	c=3 d=2.88767 t=478
-miao miao 	喵喵	c=3 d=2.90214 t=478
-ming tian 	明天	c=2 d=1.65869 t=478
-mo shi 	模式	c=3 d=2.73451 t=478
-mo ying 	末影	c=1 d=0.995012 t=478
-mo zu 	模组	c=1 d=0.960789 t=478
-mu lu 	目录	c=1 d=0.946485 t=478
-na xie 	哪些	c=1 d=0.778801 t=478
-ne 	呢	c=1 d=0.946485 t=478
-neng ba 	能把	c=1 d=0.955997 t=478
-neng kuai su 	能快速	c=1 d=0.941765 t=478
-ni hao 	你好	c=4 d=3.89721 t=478
-ni shi shui 	你是谁	c=1 d=0.97531 t=478
-nian jie 	年节	c=1 d=0.839457 t=478
-pai hang 	排行	c=1 d=0.852144 t=478
-pang ju 	胖橘	c=2 d=1.96546 t=478
-pei zhi 	配置	c=4 d=3.83448 t=478
-pei zhi wei 	裴志伟	c=2 d=1.9802 t=478
-pian 	片	c=0 d=0.0904837 t=478
-qi chuang 	起床	c=1 d=0.860708 t=478
-qian 	前	c=1 d=0.856415 t=478
-qian zhuan 	前传	c=1 d=0.909373 t=478
-qing 	请	c=1 d=0.985112 t=478
-qing hua yuan 	清华源	c=2 d=1.91678 t=478
-qing meng 	清梦	c=0 d=0.0960789 t=478
-qing meng feng yun 	清梦风云	c=2 d=1.93605 t=478
-qing xiang xi 	请详细	c=1 d=0.794534 t=478
-qu xiao 	取消	c=1 d=0.995012 t=478
-quan xian 	权限	c=1 d=1 t=478
-ri zi 	日子	c=1 d=0.860708 t=478
-rong qi 	容器	c=1 d=0.965605 t=478
-ru guo 	如果	c=1 d=0.955997 t=478
-ru he 	如何	c=27 d=14.7221 t=478
-ruan jian 	软件	c=3 d=2.02206 t=478
-sha mo 	沙漠	c=1 d=0.99005 t=478
-shao kang 	少康	c=1 d=0.965605 t=478
-shao nian 	少年	c=1 d=0.839457 t=478
-she zhi 	设置	c=1 d=0.985112 t=478
-shen cai 	身材	c=1 d=1 t=478
-shen duan 	神断	c=1 d=0.913931 t=478
-shen me 	什么	c=1 d=0.790571 t=478
-shen tan 	神探	c=3 d=2.69204 t=478
-sheng cun 	生存	c=1 d=0.88692 t=478
-sheng jing 	圣经	c=1 d=1 t=478
-sheng shi 	盛世	c=0 d=0.0995012 t=478
-sheng shi tian xia 	盛世天下	c=1 d=1 t=478
-shi 	是	c=1 d=0.995012 t=478
-shi fou 	是否	c=2 d=1.34905 t=478
-shi jie 	世界	c=5 d=4.5253 t=478
-shi pin 	视频	c=1 d=1 t=478
-shi shen me 	是什么	c=2 d=1.46838 t=478
-shi wu 	食物	c=2 d=2.06481 t=478
-shi wu xiang 	食物箱	c=1 d=1 t=478
-shi yong 	使用	c=2 d=1.63743 t=478
-shi yong yu 	适用于	c=1 d=0.980199 t=478
-shu ru fa 	输入法	c=1 d=0.995012 t=478
-shua guai long 	刷怪笼	c=2 d=1.99005 t=478
-shua xin 	刷新	c=1 d=0.722527 t=478
-shuo 	说	c=1 d=0.847894 t=478
-shuo ming 	说明	c=2 d=1.95101 t=478
-si 	丝	c=1 d=0.918512 t=478
-song ren 	松仁	c=0 d=0.0927743 t=478
-song ren mi 	松仁米	c=1 d=0.932394 t=478
-suo ping 	锁屏	c=1 d=0.951229 t=478
-suo you de 	所有的	c=1 d=0.878095 t=478
-tai du 	台独	c=1 d=0.923116 t=478
-tai wan 	台湾	c=3 d=2.66295 t=478
-tai yuan 	太原	c=1 d=0.822835 t=478
-tan 	谈	c=1 d=1 t=478
-tian qi 	天气	c=1 d=0.810584 t=478
-tian xia 	天下	c=0 d=0.0995012 t=478
-tiao 	条	c=1 d=0.865022 t=478
-tiao jian 	条件	c=1 d=0.726149 t=478
-tiao zheng 	调整	c=1 d=0.985112 t=478
-tong shi 	同时	c=2 d=1.80121 t=478
-tou ying 	投影	c=1 d=0.960789 t=478
-tu biao 	图标	c=1 d=0.856415 t=478
-tu guo 	涂过	c=1 d=0.951229 t=478
-tui chu 	退出	c=1 d=0.980199 t=478
-tui jian 	推荐	c=2 d=1.96561 t=478
-tui jian yi ge 	推荐一个	c=2 d=1.83739 t=478
-wa a a 	哇啊啊	c=0 d=0.0995012 t=478
-wa wa 	洼洼	c=1 d=1 t=478
-wai 	外	c=0 d=0.0965605 t=478
-wan 	完	c=2 d=1.95072 t=478
-wan 	玩	c=2 d=1.95084 t=478
-wang ou 	王鸥	c=1 d=0.995012 t=478
-wang shi zhi duo shao 	往事知多少	c=1 d=0.99005 t=478
-wang wang 	旺旺	c=2 d=1.97531 t=478
-wang wang 	汪汪	c=1 d=0.995012 t=478
-wang zhi an 	王志安	c=4 d=3.52172 t=478
-wei shen me 	为什么	c=1 d=0.965605 t=478
-wei wei wei 	喂喂喂	c=0 d=0.0985112 t=478
-wei wei wei wei 	喂喂喂喂	c=0 d=0.0985112 t=478
-wei wei wei wei wei wei wei wei wei wei wei wei wei wei wei 	喂喂喂喂喂喂喂喂喂喂喂喂喂喂喂	c=1 d=0.99005 t=478
-wei xin 	微信	c=3 d=1.88402 t=478
-wei zhi 	位置	c=1 d=1 t=478
-wen jian 	文件	c=2 d=1.86628 t=478
-wen ti 	问题	c=1 d=0.99005 t=478
-wo de 	我的	c=5 d=4.50273 t=478
-wo de shi jie 	我的世界	c=14 d=10.6785 t=478
-wo jue de 	我觉得	c=1 d=1 t=478
-wo shi 	我是	c=3 d=2.90187 t=478
-wu fa 	无法	c=1 d=0.97531 t=478
-wu gong 	武功	c=1 d=0.847894 t=478
-wu qi long 	吴奇隆	c=1 d=0.99005 t=478
-wu yuan min 	武元敏	c=1 d=0.932394 t=478
-xi 	洗	c=1 d=0.847894 t=478
-xi qing 	喜庆	c=1 d=0.852144 t=478
-xi tong 	系统	c=5 d=4.08063 t=478
-xian shi 	显示	c=1 d=0.980199 t=478
-xiang 	箱	c=4 d=4.11052 t=478
-xiang xi 	向西	c=1 d=0.822835 t=478
-xiang xi 	详细	c=0 d=0.0790571 t=478
-xiao er 	小儿	c=1 d=0.97531 t=478
-xiao lou zuo ye you dong feng 	小楼昨夜又东风	c=1 d=0.995012 t=478
-xiao tou 	小偷	c=2 d=1.97521 t=478
-xie zai 	卸载	c=3 d=1.97292 t=478
-xin xi 	信息	c=1 d=0.83527 t=478
-xu ni ji 	虚拟机	c=3 d=2.92244 t=478
-xuan qu 	选取	c=1 d=1 t=478
-yang 	样	c=1 d=0.818731 t=478
-yang rong 	杨蓉	c=4 d=3.15074 t=478
-yi 	以	c=1 d=0.951229 t=478
-yi chang 	异常	c=1 d=0.97531 t=478
-yi dong 	移动	c=4 d=2.7889 t=478
-yi ge 	一个	c=2 d=1.90894 t=478
-yi jing 	已经	c=1 d=0.909373 t=478
-yi tian 	一天	c=1 d=0.831104 t=478
-yi xia 	一下	c=2 d=1.72417 t=478
-yi xiang 	一向	c=1 d=0.814647 t=478
-yi zhi 	一直	c=1 d=0.99005 t=478
-yin shi 	饮食	c=1 d=0.865022 t=478
-ying gai 	应该	c=2 d=1.92218 t=478
-ying pan 	硬盘	c=1 d=1 t=478
-ying yong 	应用	c=1 d=0.970446 t=478
-yong 	用	c=2 d=1.62285 t=478
-yong de 	用的	c=0 d=0.0900325 t=478
-yong le 	用了	c=1 d=0.980199 t=478
-you 	有	c=1 d=0.774916 t=478
-you que dian 	优缺点	c=1 d=0.794534 t=478
-you shen me 	有什么	c=1 d=0.778801 t=478
-you xi 	游戏	c=1 d=0.873716 t=478
-yuan cai liao 	原材料	c=1 d=0.960789 t=478
-yun xing 	运行	c=1 d=0.970446 t=478
-za wu 	杂物	c=1 d=0.97531 t=478
-za wu xiang 	杂物箱	c=1 d=1 t=478
-zai na 	在哪	c=1 d=0.951229 t=478
-zai zai 	仔仔	c=1 d=1 t=478
-zen me 	怎么	c=1 d=0.814647 t=478
-zhang tian ai 	张天爱	c=1 d=1 t=478
-zhao jin mai 	赵今麦	c=1 d=0.878095 t=478
-zhe ge 	这个	c=1 d=1 t=478
-zheng ti 	整体	c=1 d=0.970446 t=478
-zhi pai 	纸牌	c=1 d=0.737123 t=478
-zhi wu 	植物	c=1 d=0.995012 t=478
-zhong 	中	c=2 d=1.91238 t=478
-zhong guo 	中国	c=1 d=0.88692 t=478
-zhong ji zhuang bei 	终极装备	c=1 d=0.995012 t=478
-zhong mei 	中美	c=1 d=0.970446 t=478
-zhong wen 	中文	c=1 d=0.970446 t=478
-zhong zi 	种子	c=1 d=0.995012 t=478
-zhou sui 	周岁	c=1 d=0.980199 t=478
-zhu 	猪	c=0 d=0.0715338 t=478
-zhu xiao 	注销	c=1 d=0.946485 t=478
-zhu zhong 	注重	c=1 d=0.826959 t=478
-zhuo mian 	桌面	c=5 d=4.55028 t=478
-zi cai 	紫菜	c=1 d=0.913931 t=478
-zi dong 	自动	c=1 d=0.99005 t=478
-zi ye ning xiao 	紫夜凝霄	c=1 d=0.97531 t=478
+P ei 	P欸	c=2 d=1.47515 t=535
+a 	啊	c=0 d=0.0995012 t=535
+a a a a a a a a 	啊啊啊啊啊啊啊啊	c=0 d=0.0995012 t=535
+a li 	阿里	c=1 d=1 t=534
+an zhuang 	安装	c=10 d=7.45384 t=535
+ba 	八	c=1 d=0.918512 t=535
+ba 	把	c=0 d=0.0814647 t=535
+ba jian zhu 	把建筑	c=1 d=0.818731 t=535
+bai du 	百度	c=2 d=1.90722 t=535
+bai tian 	白天	c=1 d=1 t=535
+ban 	版	c=3 d=2.73414 t=535
+bang le 	绑了	c=1 d=0.970446 t=535
+bao qing tian 	包青天	c=1 d=0.843665 t=535
+bei bao 	背包	c=1 d=0.995012 t=535
+bi li bi li 	哔哩哔哩	c=1 d=1 t=535
+bu fen 	部分	c=1 d=0.965605 t=535
+bu tong 	不同	c=1 d=0.782705 t=535
+bu xiang 	不想	c=1 d=0.97531 t=535
+cai 	才	c=2 d=1.40505 t=535
+cai liao 	材料	c=2 d=2.04012 t=535
+cai liao xiang 	材料箱	c=1 d=0.995012 t=535
+cai yao 	菜肴	c=1 d=0.882497 t=535
+cao zuo 	操作	c=1 d=0.946485 t=535
+ce shi 	测试	c=1 d=0.759572 t=535
+cha jian 	插件	c=2 d=1.54705 t=535
+cha kan 	查看	c=1 d=0.794534 t=535
+cha zhao qi 	查找器	c=1 d=1 t=535
+chang xue 	长靴	c=1 d=1 t=535
+chao xian 	朝鲜	c=2 d=1.97516 t=535
+chao xian zu 	朝鲜族	c=1 d=0.810584 t=535
+che di 	彻底	c=3 d=1.96308 t=535
+che xiao 	撤销	c=1 d=0.937067 t=535
+cheng gong 	成功	c=1 d=0.771052 t=535
+chong shang 	崇尚	c=1 d=0.818731 t=535
+chu le 	除了	c=1 d=0.960789 t=535
+chuan tong 	传统	c=1 d=0.965605 t=535
+chuang jian 	创建	c=1 d=0.99005 t=535
+chuang zao 	创造	c=2 d=1.84715 t=535
+chun hua qiu yue he shi liao 	春花秋月何时了	c=1 d=0.985112 t=535
+cong si 	葱丝	c=0 d=0.0918512 t=535
+cun dang 	存档	c=2 d=1.92196 t=535
+cun zhuang 	村庄	c=2 d=1.99005 t=535
+da jian 	搭建	c=1 d=1 t=535
+da sen 	大森	c=1 d=1 t=519
+da shou 	大寿	c=1 d=1 t=535
+da zhen tan 	大侦探	c=1 d=1 t=497
+da zi ce shi 	打字测试	c=1 d=0.980199 t=535
+da zi lian xi 	打字练习	c=2 d=1.42194 t=535
+dao 	到	c=2 d=1.89843 t=535
+dao ru 	导入	c=1 d=0.970446 t=535
+dao zhi 	导致	c=1 d=0.960789 t=535
+de 	的	c=11 d=6.89987 t=535
+dei 	得	c=0 d=0.0995012 t=535
+dei a a a a a a a a a wa a a 	得啊啊啊啊啊啊啊啊啊哇啊啊	c=1 d=1 t=535
+den 	扽	c=2 d=1.54665 t=535
+deng 	等	c=1 d=0.941765 t=535
+di 	第	c=1 d=1 t=508
+di ren jie 	狄仁杰	c=1 d=0.900325 t=535
+dian zhui 	点缀	c=1 d=0.955997 t=535
+ding yue 	订阅	c=1 d=0.806541 t=535
+dou hui 	都会	c=1 d=0.955997 t=535
+dou shi 	都是	c=1 d=0.985112 t=535
+dou yao 	都要	c=1 d=0.895834 t=535
+dui 	对	c=1 d=0.960789 t=535
+e mo fa ze 	恶魔法则	c=1 d=1 t=535
+fa lun gong 	法轮功	c=3 d=2.8585 t=535
+fa song 	发送	c=1 d=0.826959 t=535
+fang ke meng 	方可梦	c=1 d=1 t=535
+fang kuai 	方块	c=1 d=1 t=535
+fang kuang 	方框	c=1 d=0.99005 t=535
+fang wei 	方位	c=1 d=0.97531 t=535
+fang zhi 	防止	c=1 d=0.733447 t=535
+feng yun 	风云	c=0 d=0.0960789 t=535
+fu wu 	服务	c=1 d=0.951229 t=535
+fu wu qi 	服务器	c=2 d=1.9458 t=535
+gai cheng 	改成	c=1 d=0.882497 t=535
+gao bing 	糕饼	c=1 d=0.891366 t=535
+ge shi 	格式	c=1 d=0.951229 t=535
+ge xiang 	各项	c=1 d=0.985112 t=535
+ge you 	各有	c=1 d=0.786628 t=535
+gei 	给	c=1 d=0.839457 t=535
+geng huan 	更换	c=1 d=0.951229 t=535
+geng jia 	更加	c=1 d=0.869358 t=535
+geng xin 	更新	c=3 d=2.22653 t=535
+gong ju 	工具	c=1 d=0.980199 t=535
+gong neng 	功能	c=1 d=0.782705 t=535
+gou mai 	购买	c=1 d=1 t=535
+gu guo bu kan hui shou yue ming zhong 	故国不堪回首月明中	c=1 d=1 t=535
+gua zai 	挂载	c=1 d=0.995012 t=535
+guan li yuan 	管理员	c=1 d=0.995012 t=535
+ha ha ha 	哈哈哈	c=1 d=1 t=535
+hai xiang 	还想	c=1 d=0.918512 t=535
+han ju 	韩剧	c=2 d=1.96536 t=535
+he 	和	c=4 d=2.30514 t=535
+he 	盒	c=1 d=1 t=535
+he cheng 	合成	c=1 d=0.995012 t=535
+hou 	后	c=4 d=3.39987 t=535
+hu tao ren 	胡桃仁	c=1 d=0.937067 t=535
+hua er 	花儿	c=1 d=1 t=530
+huan lian 	换脸	c=2 d=1.58193 t=535
+hui hun jie 	回婚节	c=1 d=0.798516 t=535
+huo 	或	c=1 d=0.927743 t=535
+ji 	季	c=1 d=1 t=509
+ji dan 	鸡蛋	c=0 d=0.0904837 t=535
+ji dan pian 	鸡蛋片	c=1 d=0.909373 t=535
+ji di 	基地	c=1 d=1 t=535
+ji ge 	几格	c=1 d=0.831104 t=535
+ji yan ban 	基岩版	c=1 d=1 t=535
+jia huo 	家伙	c=2 d=1.98511 t=535
+jia qi 	假期	c=1 d=1 t=514
+jia yi 	加一	c=1 d=0.946485 t=535
+jian hao 	建好	c=0 d=0.0955997 t=535
+jian hao de 	建好的	c=1 d=0.960789 t=535
+jian wang san 	剑网三	c=1 d=1 t=535
+jian zao 	建造	c=2 d=1.91813 t=535
+jian zhu 	建筑	c=3 d=2.65429 t=535
+jiang feng 	江峰	c=1 d=0.740818 t=535
+jiang jiu 	讲究	c=1 d=0.873716 t=535
+jiang shi 	僵尸	c=0 d=0.0715338 t=535
+jiang shi zhu ling 	僵尸猪灵	c=1 d=0.718924 t=535
+jiao yi suo 	交易所	c=1 d=1 t=535
+jie hun 	结婚	c=2 d=1.78763 t=535
+jie jue 	解决	c=2 d=1.94649 t=535
+jie ling 	节令	c=1 d=0.831104 t=535
+jie ri 	节日	c=0 d=0.0965605 t=535
+jie ri wai 	节日外	c=1 d=0.970446 t=535
+jie shao 	介绍	c=1 d=0.798516 t=535
+jin tian tian qi 	今天天气	c=1 d=0.995012 t=535
+jin xing 	进行	c=1 d=0.980199 t=535
+ju le bu 	俱乐部	c=1 d=0.980199 t=535
+kai ji 	开机	c=1 d=0.985112 t=535
+ke yi 	可以	c=3 d=2.50108 t=535
+ke yi yong de 	可以用的	c=1 d=0.904837 t=535
+kong bu you xi 	恐怖游戏	c=1 d=0.83527 t=535
+kua ke 	夸克	c=1 d=1 t=533
+kuai su 	快速	c=1 d=0.99005 t=535
+kuang shi 	矿石	c=3 d=2.8975 t=535
+kuang ye zhi xi 	旷野之息	c=3 d=2.96536 t=520
+kun bang 	捆绑	c=1 d=0.737123 t=535
+la jiao si 	辣椒丝	c=1 d=0.904837 t=535
+lao ren 	老人	c=1 d=0.99005 t=535
+le 	了	c=2 d=1.66024 t=535
+lei si 	类似	c=1 d=0.909373 t=535
+li hong zhi 	李洪志	c=1 d=0.927743 t=535
+li jin mie 	李尽灭	c=1 d=0.995012 t=535
+li yi 	礼仪	c=1 d=0.822835 t=535
+li yong 	利用	c=1 d=0.955997 t=535
+lian jie 	连接	c=2 d=1.51547 t=535
+liang ge 	两个	c=1 d=0.891366 t=535
+lie yan ren 	烈焰人	c=1 d=0.995012 t=535
+ling 	灵	c=0 d=0.0715338 t=535
+ling wai 	另外	c=1 d=0.985112 t=535
+liu shi 	六十	c=1 d=0.995012 t=535
+liu shi shi 	刘诗诗	c=6 d=4.5752 t=535
+liu shi zhou nian ji nian ri 	六十周年纪念日	c=1 d=0.806541 t=535
+long shen 	龙神	c=1 d=0.995012 t=535
+lv 	绿	c=0 d=0.0918512 t=535
+lv cong si 	绿葱丝	c=1 d=0.923116 t=535
+ma 	吗	c=3 d=2.46265 t=535
+mei ci 	每次	c=1 d=0.946485 t=535
+mei feng 	每逢	c=1 d=0.83527 t=535
+mei lin na 	梅琳娜	c=1 d=1 t=535
+men 	门	c=1 d=1 t=535
+mi 	米	c=0 d=0.0927743 t=535
+mi mi 	咪咪	c=3 d=2.88767 t=535
+mi ni 	迷你	c=1 d=1.0802 t=520
+mi ni ren wu 	迷你任务	c=1 d=1 t=521
+miao miao 	喵喵	c=3 d=2.90214 t=535
+ming tian 	明天	c=2 d=1.65869 t=535
+ming xing da zhen tan 	明星大侦探	c=16 d=14.6563 t=511
+ming zhen tan 	名侦探	c=1 d=1 t=512
+mo shi 	模式	c=3 d=2.73451 t=535
+mo ying 	末影	c=1 d=0.995012 t=535
+mo zu 	模组	c=1 d=0.960789 t=535
+mu lu 	目录	c=1 d=0.946485 t=535
+na xie 	哪些	c=1 d=0.778801 t=535
+ne 	呢	c=1 d=0.946485 t=535
+neng ba 	能把	c=1 d=0.955997 t=535
+neng kuai su 	能快速	c=1 d=0.941765 t=535
+ni hao 	你好	c=4 d=3.89721 t=535
+ni shi shui 	你是谁	c=1 d=0.97531 t=535
+nian jie 	年节	c=1 d=0.839457 t=535
+pai hang 	排行	c=1 d=0.852144 t=535
+pang ju 	胖橘	c=2 d=1.96546 t=535
+pei zhi 	配置	c=4 d=3.83448 t=535
+pei zhi wei 	裴志伟	c=2 d=1.9802 t=535
+pian 	片	c=0 d=0.0904837 t=535
+qi chuang 	起床	c=1 d=0.860708 t=535
+qian 	前	c=1 d=0.856415 t=535
+qian zhuan 	前传	c=1 d=0.909373 t=535
+qing 	请	c=1 d=0.985112 t=535
+qing hua yuan 	清华源	c=2 d=1.91678 t=535
+qing meng 	清梦	c=0 d=0.0960789 t=535
+qing meng feng yun 	清梦风云	c=2 d=1.93605 t=535
+qing xiang xi 	请详细	c=1 d=0.794534 t=535
+qu xiao 	取消	c=1 d=0.995012 t=535
+quan xian 	权限	c=1 d=1 t=535
+ren wu 	任务	c=1 d=1.08511 t=520
+ri zi 	日子	c=1 d=0.860708 t=535
+rong pu 	蓉蒲	c=1 d=1 t=525
+rong qi 	容器	c=1 d=0.965605 t=535
+ru guo 	如果	c=1 d=0.955997 t=535
+ru he 	如何	c=27 d=14.7221 t=535
+ruan jian 	软件	c=3 d=2.02206 t=535
+sha mo 	沙漠	c=1 d=0.99005 t=535
+shao kang 	少康	c=1 d=0.965605 t=535
+shao nian 	少年	c=1 d=0.839457 t=535
+she zhi 	设置	c=1 d=0.985112 t=535
+shen cai 	身材	c=1 d=1 t=535
+shen duan 	神断	c=1 d=0.913931 t=535
+shen me 	什么	c=1 d=0.790571 t=535
+shen miao 	神庙	c=1 d=1 t=523
+shen tan 	神探	c=3 d=2.69204 t=535
+sheng cun 	生存	c=1 d=0.88692 t=535
+sheng jing 	圣经	c=1 d=1 t=535
+sheng shi 	盛世	c=0 d=0.0995012 t=535
+sheng shi tian xia 	盛世天下	c=1 d=1 t=535
+shi 	是	c=1 d=0.995012 t=535
+shi fou 	是否	c=2 d=1.34905 t=535
+shi jie 	世界	c=5 d=4.5253 t=535
+shi pin 	视频	c=1 d=1 t=535
+shi shen me 	是什么	c=2 d=1.46838 t=535
+shi wu 	食物	c=2 d=2.06481 t=535
+shi wu xiang 	食物箱	c=1 d=1 t=535
+shi yong 	使用	c=2 d=1.63743 t=535
+shi yong yu 	适用于	c=1 d=0.980199 t=535
+shu ru fa 	输入法	c=1 d=0.995012 t=535
+shua guai long 	刷怪笼	c=2 d=1.99005 t=535
+shua xin 	刷新	c=1 d=0.722527 t=535
+shuo 	说	c=1 d=0.847894 t=535
+shuo ming 	说明	c=2 d=1.95101 t=535
+si 	丝	c=1 d=0.918512 t=535
+song ren 	松仁	c=0 d=0.0927743 t=535
+song ren mi 	松仁米	c=1 d=0.932394 t=535
+suo ping 	锁屏	c=1 d=0.951229 t=535
+suo you de 	所有的	c=1 d=0.878095 t=535
+tai du 	台独	c=1 d=0.923116 t=535
+tai wan 	台湾	c=3 d=2.66295 t=535
+tai yuan 	太原	c=1 d=0.822835 t=535
+tan 	谈	c=1 d=1 t=535
+tian qi 	天气	c=1 d=0.810584 t=535
+tian xia 	天下	c=0 d=0.0995012 t=535
+tiao 	条	c=1 d=0.865022 t=535
+tiao jian 	条件	c=1 d=0.726149 t=535
+tiao zheng 	调整	c=1 d=0.985112 t=535
+tong shi 	同时	c=2 d=1.80121 t=535
+tou ying 	投影	c=1 d=0.960789 t=535
+tu biao 	图标	c=1 d=0.856415 t=535
+tu guo 	涂过	c=1 d=0.951229 t=535
+tui chu 	退出	c=1 d=0.980199 t=535
+tui jian 	推荐	c=2 d=1.96561 t=535
+tui jian yi ge 	推荐一个	c=2 d=1.83739 t=535
+wa a a 	哇啊啊	c=0 d=0.0995012 t=535
+wa wa 	洼洼	c=1 d=1 t=535
+wai 	外	c=0 d=0.0965605 t=535
+wan 	完	c=2 d=1.95072 t=535
+wan 	玩	c=2 d=1.95084 t=535
+wang guo zhi lei 	王国之泪	c=1 d=1 t=522
+wang ou 	王鸥	c=1 d=0.995012 t=535
+wang shi zhi duo shao 	往事知多少	c=1 d=0.99005 t=535
+wang wang 	旺旺	c=2 d=1.97531 t=535
+wang wang 	汪汪	c=1 d=0.995012 t=535
+wang zhi an 	王志安	c=4 d=3.52172 t=535
+wei shen me 	为什么	c=1 d=0.965605 t=535
+wei wei wei 	喂喂喂	c=0 d=0.0985112 t=535
+wei wei wei wei 	喂喂喂喂	c=0 d=0.0985112 t=535
+wei wei wei wei wei wei wei wei wei wei wei wei wei wei wei 	喂喂喂喂喂喂喂喂喂喂喂喂喂喂喂	c=1 d=0.99005 t=535
+wei xin 	微信	c=3 d=1.88402 t=535
+wei zhi 	位置	c=1 d=1 t=535
+wen jian 	文件	c=2 d=1.86628 t=535
+wen ti 	问题	c=1 d=0.99005 t=535
+wo de 	我的	c=5 d=4.50273 t=535
+wo de shi jie 	我的世界	c=14 d=10.6785 t=535
+wo jue de 	我觉得	c=1 d=1 t=535
+wo shi 	我是	c=3 d=2.90187 t=535
+wo xin chang dan 	卧薪尝胆	c=4 d=3.97017 t=529
+wu fa 	无法	c=1 d=0.97531 t=535
+wu gong 	武功	c=1 d=0.847894 t=535
+wu qi long 	吴奇隆	c=1 d=0.99005 t=535
+wu yuan min 	武元敏	c=1 d=0.932394 t=535
+xi 	洗	c=1 d=0.847894 t=535
+xi qing 	喜庆	c=1 d=0.852144 t=535
+xi tong 	系统	c=5 d=4.08063 t=535
+xia 	下	c=12 d=11.3129 t=507
+xian shi 	显示	c=1 d=0.980199 t=535
+xiang 	箱	c=4 d=4.11052 t=535
+xiang xi 	向西	c=1 d=0.822835 t=535
+xiang xi 	详细	c=0 d=0.0790571 t=535
+xiao er 	小儿	c=1 d=0.97531 t=535
+xiao lou zuo ye you dong feng 	小楼昨夜又东风	c=1 d=0.995012 t=535
+xiao tou 	小偷	c=2 d=1.97521 t=535
+xie zai 	卸载	c=3 d=1.97292 t=535
+xin xi 	信息	c=1 d=0.83527 t=535
+xu ni ji 	虚拟机	c=3 d=2.92244 t=535
+xuan qu 	选取	c=1 d=1 t=535
+xun lei 	迅雷	c=2 d=1.98511 t=535
+yang 	样	c=1 d=0.818731 t=535
+yang rong 	杨蓉	c=5 d=3.31589 t=535
+yi 	以	c=1 d=0.951229 t=535
+yi chang 	异常	c=1 d=0.97531 t=535
+yi dong 	移动	c=4 d=2.7889 t=535
+yi ge 	一个	c=2 d=1.90894 t=535
+yi jing 	已经	c=1 d=0.909373 t=535
+yi tian 	一天	c=1 d=0.831104 t=535
+yi xia 	一下	c=2 d=1.72417 t=535
+yi xiang 	一向	c=1 d=0.814647 t=535
+yi zhi 	一直	c=1 d=0.99005 t=535
+yin shi 	饮食	c=1 d=0.865022 t=535
+ying gai 	应该	c=2 d=1.92218 t=535
+ying pan 	硬盘	c=1 d=1 t=535
+ying yong 	应用	c=1 d=0.970446 t=535
+yong 	用	c=2 d=1.62285 t=535
+yong de 	用的	c=0 d=0.0900325 t=535
+yong le 	用了	c=1 d=0.980199 t=535
+you 	有	c=1 d=0.774916 t=535
+you que dian 	优缺点	c=1 d=0.794534 t=535
+you shen me 	有什么	c=1 d=0.778801 t=535
+you xi 	游戏	c=1 d=0.873716 t=535
+yu 	与	c=0 d=0.1 t=530
+yu shao nian 	与少年	c=1 d=1 t=531
+yuan cai liao 	原材料	c=1 d=0.960789 t=535
+yun xing 	运行	c=1 d=0.970446 t=535
+za wu 	杂物	c=1 d=0.97531 t=535
+za wu xiang 	杂物箱	c=1 d=1 t=535
+zai na 	在哪	c=1 d=0.951229 t=535
+zai zai 	仔仔	c=1 d=1 t=535
+zen me 	怎么	c=1 d=0.814647 t=535
+zhang tian ai 	张天爱	c=1 d=1 t=535
+zhao jin mai 	赵今麦	c=1 d=0.878095 t=535
+zhe ge 	这个	c=1 d=1 t=535
+zheng ti 	整体	c=1 d=0.970446 t=535
+zhi pai 	纸牌	c=1 d=0.737123 t=535
+zhi wu 	植物	c=1 d=0.995012 t=535
+zhong 	中	c=4 d=3.07421 t=535
+zhong guo 	中国	c=1 d=0.88692 t=535
+zhong ji zhuang bei 	终极装备	c=1 d=0.995012 t=535
+zhong mei 	中美	c=1 d=0.970446 t=535
+zhong wen 	中文	c=1 d=0.970446 t=535
+zhong zi 	种子	c=1 d=0.995012 t=535
+zhou sui 	周岁	c=1 d=0.980199 t=535
+zhu 	猪	c=0 d=0.0715338 t=535
+zhu xiao 	注销	c=1 d=0.946485 t=535
+zhu zhong 	注重	c=1 d=0.826959 t=535
+zhuo mian 	桌面	c=5 d=4.55028 t=535
+zi cai 	紫菜	c=1 d=0.913931 t=535
+zi dong 	自动	c=1 d=0.99005 t=535
+zi ye ning xiao 	紫夜凝霄	c=1 d=0.97531 t=535
