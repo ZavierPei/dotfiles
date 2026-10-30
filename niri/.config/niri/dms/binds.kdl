@@ -127,7 +127,7 @@ binds {
     Mod+Shift+E { quit; }
     Mod+D repeat=false hotkey-overlay-title="VS Code" { spawn "sh" "-c" "code"; }
     Mod+R hotkey-overlay-title="Kitty" { spawn "sh" "-c" "kitty"; }
-    Super+Z hotkey-overlay-title="Zen Browser" { spawn "sh" "-c" "flatpak run app.zen_browser.zen"; }
+    Super+Z hotkey-overlay-title="Zen Browser" { spawn "sh" "-c" "zen"; }
     Mod+Escape allow-inhibiting=false { toggle-keyboard-shortcuts-inhibit; }
     Mod+Shift+Slash { show-hotkey-overlay; }
     Mod+Tab repeat=false { toggle-overview; }
